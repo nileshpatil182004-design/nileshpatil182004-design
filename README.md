@@ -1,13 +1,13 @@
 <div align="center">
 
-# Hi, I'm Naveen Mamidi 👋
+# Hi, I'm Nilesh Patil 👋
 
-### AWS DevOps Engineer · Cloud Infrastructure Automation · CI/CD · Infrastructure as Code · Kubernetes
+### AWS Cloud & DevOps Engineer · Cloud Infrastructure Automation · CI/CD · Infrastructure as Code · Kubernetes
 
 📍 Artesia, CA &nbsp;·&nbsp; 🟢 **Open to new opportunities**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveenmamidinm)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveenmamidi1147@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilesh-patil-79621b316)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nileshpatil182004@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-Download-2ea44f?style=for-the-badge&logo=readthedocs&logoColor=white)](#)
 
 *(Resume link above is a placeholder — send me the file/URL and I'll wire it up.)*
@@ -18,16 +18,18 @@
 
 ## About Me
 
-I'm an AWS and Linux DevOps Engineer with 4+ years of hands-on experience automating, deploying, and supporting production cloud infrastructure. I build Infrastructure as Code with Terraform, configuration management with Ansible, and end-to-end CI/CD pipelines with Jenkins, Git, Maven, and SonarQube — then ship the result as containerized applications on Docker, Kubernetes, and Helm.
+I am a BCA graduate with a strong interest in Cloud Computing and DevOps. I am currently learning AWS, Linux, Git, GitHub, and DevOps tools to build my technical skills.
 
-I've led an on-premises-to-AWS migration, tightened IAM to least-privilege across environments, built high-availability/auto-scaling architectures, and kept production visible with CloudWatch, Splunk, and Nagios. I'm comfortable being the person paged at 2 AM — fast incident triage and root-cause analysis are as much a part of the job as writing the Terraform in the first place.
+I have hands-on practice with AWS services like EC2, VPC, IAM, CloudWatch, and SNS. I have also worked on practical projects such as AWS VPC Peering and EC2 Monitoring with CloudWatch and SNS.
+
+I enjoy learning new technologies, solving technical problems, and building real-world projects. My goal is to start my career as a Cloud Engineer and grow in the Cloud and DevOps field.
+
+I am always eager to learn, improve my skills, and explore new opportunities.
 
 **At a glance**
 
-- 🏢 4+ years across 3 enterprise client engagements — Siemens, Genisys, Solar Turbines
 - ☁️ Full-lifecycle AWS delivery: greenfield builds *and* on-prem → cloud migration
-- 🔁 CI/CD pipeline architecture: Jenkins, Terraform, Ansible, Docker, Kubernetes, Helm
-- 🎓 AWS Certified Solutions Architect – Associate
+- 🔁 CI/CD pipeline architecture: Jenkins, Terraform, Ansible, Docker, Kubernetes, 
 
 ---
 
@@ -56,69 +58,31 @@ User/permission management, patching, and disk/memory/process troubleshooting, w
 
 ---
 
-## Certifications
-
-[![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20--%20Associate%20(2026)-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
-
----
 
 ## Professional Experience
 
-### AWS DevOps Engineer · Shreyan IT Solutions Pvt Ltd — Hyderabad, India
-**Nov 2019 – Sep 2023** · Consulting engineer delivering AWS DevOps work across three enterprise client engagements
 
-<details>
-<summary><strong>Client: Siemens</strong> — CI/CD Pipeline Automation & DevOps Release Management (Oct 2022 – Sep 2023)</summary>
-<br>
+# Fortune Cloud Technology
+**Role: Cloud Engineer & DevOps Engineer Intern**
+**Duration: 6 Months**
 
-`AWS` `Jenkins` `Terraform` `Ansible` `Docker` `Maven` `Git` `SonarQube` `Nagios` `Linux`
+**- Gained practical experience in Cloud Computing and DevOps practices.**
+**- Worked with AWS services, including EC2, VPC, IAM, CloudWatch, and SNS.**
+**- Practiced managing cloud infrastructure and AWS resources.**
+**- Worked with Linux commands and basic server management.**
+**- Used Git and GitHub for version control and source code management.**
+**- Learned DevOps workflows and CI/CD fundamentals.**
+**- Worked on cloud monitoring, infrastructure configuration, and troubleshooting.**
+**- Developed practical knowledge of cloud infrastructure and deployment processes.**
 
-- Built end-to-end Jenkins CI/CD pipelines taking code from commit through quality checks, artifact creation, and deployment — one repeatable release path for dev, QA, and pre-production.
-- Integrated Maven, Git, Docker, Terraform, and SonarQube into those pipelines so builds, infrastructure changes, and deployments ran as a single workflow instead of separate manual handoffs.
-- Provisioned AWS environments on demand through Terraform jobs in Jenkins (VPC, EC2, RDS, ALB, Auto Scaling, IAM, S3, EBS), replacing ticket-based infrastructure requests with self-service, version-controlled builds.
-- Replaced manual server setup with Ansible playbooks across dev/QA/pre-prod, keeping configuration identical between environments and removing drift as a source of failed releases.
-- Enforced SonarQube quality gates on Maven builds, moving defect detection to build time instead of QA.
-- Configured Nagios and CloudWatch checks across Linux servers, application services, and AWS resources to surface capacity and availability problems before users reported them.
-
-</details>
-
-<details>
-<summary><strong>Client: Genisys</strong> — On-Premises to AWS Cloud Migration (Mar 2021 – Oct 2022)</summary>
-<br>
-
-`AWS` `Terraform` `Jenkins` `Ansible` `Git` `Maven` `Linux` `CloudWatch` `Splunk`
-
-- Migrated applications and workloads from on-premises VMs to AWS — environment build-out, cutover, and post-migration validation — moving the business off fixed on-prem capacity.
-- Codified the target AWS environment in Terraform (VPC, subnets, security groups, EC2, and supporting resources) so environments could be rebuilt identically instead of hand-assembled in the console.
-- Deployed migrated applications onto managed AWS services (EC2, ELB, RDS, S3, Lambda, SQS, CloudFront) matched to each application's architecture, reducing the server footprint the team maintained.
-- Rebuilt permissions around IAM roles and least-privilege policies, limiting each team/service to only the resources it needed.
-- Instrumented AWS resources with CloudWatch alarms and notifications so degradation reached the team as an alert, not a user-reported outage.
-- Traced recurring production failures through Splunk log analysis to fix root causes instead of repeatedly restarting services.
-
-</details>
-
-<details>
-<summary><strong>Client: Solar Turbines</strong> — San Diego, CA · AWS Infrastructure Automation & Kubernetes Deployment (Feb 2020 – Mar 2021)</summary>
-<br>
-
-`AWS` `Jenkins` `Terraform` `Ansible` `Docker` `Kubernetes` `Helm` `Linux` `CloudWatch` `SNS`
-
-- Automated the full AWS environment build in Terraform (VPC, subnets, route tables, IGW, EC2, RDS, S3, IAM roles, security groups, ELB, CloudWatch alarms) so environments were rebuilt from version control, not reconstructed manually.
-- Scripted Jenkins pipelines in Groovy covering build, test, and deployment stages, giving every environment the same release path.
-- Operated microservices on Kubernetes (Pods, Deployments, ReplicaSets, Services), handling rollouts, scaling, and pod-level troubleshooting.
-- Versioned Kubernetes releases as Helm charts with source-controlled values, making any prior release recoverable in a single rollback.
-- Extended CloudWatch with custom metrics for application memory/thread health and wired alarms to SNS, so the team was paged the moment a threshold broke.
-- Administered Linux servers and automated recurring system/deployment tasks with shell scripts.
-
-</details>
+**Key Skills: AWS, Linux, EC2, VPC, IAM, CloudWatch, SNS, Git, GitHub, DevOps, CI/CD.**
 
 ---
 
 ## Education
 
-- **M.S., Computer Science** — Westcliff University, Irvine, CA *(2023 – 2026)*
-- **Master of Computer Applications** — JKC College (Autonomous), Andhra Pradesh, India *(2019 – 2021)*
-- **B.S., Computer Science** — JKC College (Autonomous), Andhra Pradesh, India *(2016 – 2019)*
+- **Master of Computer Applications** — Manipal University Jaipur, India *(2026 – 2028)*
+- **BCA, Computer Application** — G.H. raisoni college of engineering and management jalgaon, India *(2023 – 2026)*
 
 ---
 
@@ -184,8 +148,6 @@ User/permission management, patching, and disk/memory/process troubleshooting, w
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaveenMamidiAWSDevOps&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenMamidiAWSDevOps&layout=compact&theme=default)
 
 </div>
 
@@ -197,7 +159,7 @@ User/permission management, patching, and disk/memory/process troubleshooting, w
 
 I'm actively exploring **AWS DevOps / Cloud Infrastructure Engineer** roles. If you're hiring or just want to talk shop about Terraform, Kubernetes, or CI/CD — reach out.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveenmamidinm)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveenmamidi1147@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilesh-patil-79621b316)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nileshpatil182004@gmail.com)
 
 </div>
