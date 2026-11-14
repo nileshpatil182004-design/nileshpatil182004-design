@@ -88,7 +88,7 @@ User/permission management, patching, and disk/memory/process troubleshooting, w
 
 ## Education
 
-- **Master of Computer Applications** — Manipal University Jaipur, India *(2026 – 2028)*
+- **Master of Computer Applications** — Manipal Institute oF Technology, India *(2026 – 2028)*
 - **BCA, Computer Application** — G.H. raisoni college of engineering and management jalgaon, India *(2023 – 2026)*
 
 ---
