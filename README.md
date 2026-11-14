@@ -67,12 +67,19 @@ User/permission management, patching, and disk/memory/process troubleshooting, w
 **Duration: 6 Months**
 
 **- Gained practical experience in Cloud Computing and DevOps practices.**
+
 **- Worked with AWS services, including EC2, VPC, IAM, CloudWatch, and SNS.**
+
 **- Practiced managing cloud infrastructure and AWS resources.**
+
 **- Worked with Linux commands and basic server management.**
+
 **- Used Git and GitHub for version control and source code management.**
+
 **- Learned DevOps workflows and CI/CD fundamentals.**
+
 **- Worked on cloud monitoring, infrastructure configuration, and troubleshooting.**
+
 **- Developed practical knowledge of cloud infrastructure and deployment processes.**
 
 **Key Skills: AWS, Linux, EC2, VPC, IAM, CloudWatch, SNS, Git, GitHub, DevOps, CI/CD.**
